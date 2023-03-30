@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GUI
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GUI\ here.\r\n\r\n\ @author\ \ Aldo\ Bega\r\n\ @version\ 31.03.2021\r\n
+comment1.params=
+comment1.target=GUI()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GUI\r\n
+comment2.params=e
+comment2.target=void\ adjustmentValueChanged(java.awt.event.AdjustmentEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ printDescription()
+comment5.params=
+comment5.target=void\ addItems()
+comment6.params=
+comment6.target=void\ addSpells()
+comment7.params=
+comment7.target=void\ spells()
+comment8.params=
+comment8.target=void\ disableButtons()
+numComments=9

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Wizard
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Harry\ Potter\ and\ the\ Deathly\ Hallows"\ application.\ \r\n\ "World\ of\ Harry\ Potter\ and\ the\ Deathly\ Hallows"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ \r\n\ \r\n\ A\ Wizard\ represents\ a\ wizard\ (in\ our\ game,\ namely\ Harry)\ that\ has\ to\ go\ to\ different\ locations\ and\ collect\ the\ right\ items,\ as\ well\ as\ cast\r\n\ the\ right\ spell\ when\ it\ gets\ to\ the\ final\ destination,\ in\ order\ to\ win\ the\ game.\r\n\r\n\ @author\ \ Aldo\ Bega\r\n\ @version\ 31.03.2021\r\n
+comment1.params=
+comment1.target=Wizard()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Wizard\r\n
+comment2.params=item
+comment2.target=void\ setItemToWizard(Item)
+comment2.text=\ \r\n\ Setting\ an\ picked\ up\ item\ to\ the\ Wizard\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ pickedUpItems()
+comment4.params=
+comment4.target=void\ printItems()
+comment4.text=\ \r\n\ Printing\ the\ already\ carried\ Items\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ listOfItems()
+comment5.text=\ \r\n\ Creating\ an\ ArrayList\ of\ Strings,\ that\ will\ hold\ the\ description\ of\ each\ item\r\n
+comment6.params=
+comment6.target=java.util.ArrayList\ getItemsForState()
+comment6.text=\ \r\n\ Creating\ an\ ArrayList\ of\ Items,\ that\ will\ copy\ the\ ItemsToCarry\ ArrayList,\ so\ that\ \r\n\ we\ can\ access\ it\ as\ a\ value\ and\ not\ as\ a\ reference.\r\n
+comment7.params=previousItems
+comment7.target=void\ previousItems(java.util.ArrayList)
+comment7.text=\ \r\n\ Setting\ ItemsTCarry\ equal\ to\ previousItems,\ so\ that\ we\ can\ go\ back\r\n\ to\ the\ previous\ state,\ in\ the\ begining\ of\ the\ previous\ room\r\n
+numComments=8
